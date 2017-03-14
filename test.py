@@ -14,3 +14,9 @@ while n>0:
 	n=n-1
 	print (n)
 print ("la la land")
+
+n=0
+while n<10:
+	print(n)
+	n=n+1
+print ('done')
