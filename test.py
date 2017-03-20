@@ -23,3 +23,8 @@ print ('done')
 
 name = raw_input ('what is your name?')
 print ('welcome', name)
+
+hour = 35
+rate = 2.75
+pay = hour * rate
+print (pay)
