@@ -20,3 +20,6 @@ while n<10:
 	print(n)
 	n=n+1
 print ('done')
+
+name = raw_input ('what is your name?')
+print ('welcome', name)
