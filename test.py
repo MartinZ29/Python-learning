@@ -32,3 +32,7 @@ print (pay)
 a = raw_input ('working hours?')
 H = float(a)
 print H
+
+b = raw_input ('Pay rate?')
+P = float(b)
+print P
