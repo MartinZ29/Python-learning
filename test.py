@@ -42,3 +42,5 @@ hours = float (input_h)
 
 input_r = raw_input("Enter Rates:")
 rates = float (input_r)
+
+def computepay(h,r):
