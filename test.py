@@ -51,3 +51,4 @@ def computepay(h,r):
        
     return pay
 
+print computepay(hours,rates)
