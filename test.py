@@ -54,4 +54,12 @@ def computepay(h,r):
 print computepay(hours,rates)
 
 score = raw_input ('enter your score')
-S = float(score)
+s = float(score)
+if s>90:
+    print ('A')
+else if s>80:
+    print ('B')
+else if s>70:
+    print ('C')
+else:
+    print ('F')
