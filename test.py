@@ -54,3 +54,4 @@ def computepay(h,r):
 print computepay(hours,rates)
 
 score = raw_input ('enter your score')
+S = float(score)
