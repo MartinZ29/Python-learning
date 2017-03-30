@@ -52,3 +52,5 @@ def computepay(h,r):
     return pay
 
 print computepay(hours,rates)
+
+score = raw_input ('enter your score')
