@@ -63,3 +63,6 @@ else if s>70:
     print ('C')
 else:
     print ('F')
+    
+def score(s):
+    if s>90
