@@ -10,3 +10,4 @@ def sayhello (language):
         print ('Bonjour')
     else:
         print ('Hello')
+sayhello ('kjgkjhgk')
