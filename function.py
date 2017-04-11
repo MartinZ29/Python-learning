@@ -1,3 +1,12 @@
 def lyrics():
     return "bla"
 print (lyrics())
+
+
+def sayhello (language):
+    if language == 'Chinese':
+        print ('Nin hao')
+    elif language == 'French':
+        print ('Bonjour')
+    else:
+        print ('Hello')
