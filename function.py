@@ -15,4 +15,5 @@ sayhello ('kjgkjhgk')
 def function (e):
     if
     return
+    print
 print (function(e))
