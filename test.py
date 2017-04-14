@@ -66,3 +66,7 @@ else:
     
 def score(s):
     if s>90
+
+def lyrics():
+    return "print"
+print (lyrics())
